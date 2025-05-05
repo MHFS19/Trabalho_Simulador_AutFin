@@ -27,11 +27,11 @@ Este trabalho implementa um simulador de autômatos finitos determinísticos (DF
  # Validação de arquivos de entrada
  # Funções auxiliares
  # Exemplos de arquivos
- automato.aut # Exemplo de autômato
- testes.in # Exemplo de casos de teste
+ # Exemplo de autômato
+ # Exemplo de casos de teste
 
  # Exemplo de uso (saída)
  palavra de entrada;resultadoesperado;resultado_obtido;tempo
-ab;1;1;0.000456
-aab;0;0;0.000321
-bbb;1;0;0.000289
+ ab;1;1;0.000456
+ aab;0;0;0.000321
+ bbb;1;0;0.000289
